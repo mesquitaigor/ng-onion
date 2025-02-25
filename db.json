@@ -1,0 +1,62 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": ""
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": ""
+    },
+    {
+      "id": 3,
+      "name": "Jim Doe",
+      "email": ""
+    }
+  ],
+  "phones": [
+    {
+      "id": 1,
+      "client_id": 1,
+      "phone": "312-555-1212"
+    },
+    {
+      "id": 2,
+      "client_id": 2,
+      "phone": "312-555-1212"
+    },
+    {
+      "id": 3,
+      "client_id": 3,
+      "phone": "312-555-1212"
+    }
+  ],
+  "adresses": [
+    {
+      "id": 1,
+      "client_id": 1,
+      "address": "123 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601"
+    },
+    {
+      "id": 2,
+      "client_id": 2,
+      "address": "123 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601"
+    },
+    {
+      "id": 3,
+      "client_id": 3,
+      "address": "123 Main St",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601"
+    }
+  ]
+}
