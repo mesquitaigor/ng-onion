@@ -1,6 +1,7 @@
 # NgOnion
 
 ## Estrutura inicial:
+``` bash
 src/
 ├── app/
 │   ├── core/                  # Camada de núcleo (configurações globais)
@@ -42,7 +43,7 @@ src/
 ├── assets/                    # Arquivos estáticos (imagens, ícones, etc.)
 ├── environments/              # Configurações de ambiente
 └── styles/                    # Estilos globais
-
+```
 
 ## Explicação das Camadas
 # Core :
